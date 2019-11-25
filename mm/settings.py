@@ -25,7 +25,10 @@ REST_FRAMEWORK = {
 
 }
 
-
+# ljsdfljdn
+# sdnlsdn
+# skdklmds
+# jnsdddfd
 
 
 INSTALLED_APPS = [
